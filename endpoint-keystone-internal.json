@@ -1,0 +1,9 @@
+{
+        "endpoint": {
+                "service_id": "e48b948103ff4c8f98e0e230090f87c7",
+                "interface": "internal",
+                "url": "http://5lpo101.univ-brest.fr:5000/v3",
+                "region": "FR-UTAV-II-DC1R1",
+                "name": "keystone-internal-n1"
+        }
+}

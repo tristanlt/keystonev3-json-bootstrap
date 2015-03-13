@@ -1,0 +1,8 @@
+{
+	"user" : {
+		"name": "cloudadmin",
+		"password": "LaVcloudadmin**",
+		"email": "cloudadmin@lav.utav.fr",
+		"domain_id": "default"
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"project" : {
+		"name": "cloudadmin",
+		"description": "Administrateurs infra OpenStack",
+		"domain_id": "default"
+	}
+}
