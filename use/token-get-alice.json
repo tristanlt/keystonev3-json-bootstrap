@@ -1,0 +1,19 @@
+{ "auth": {
+    "identity": {
+      "methods": ["password"],
+      "password": {
+        "user": {
+          "name": "alice",
+          "domain": { "id": "ad6cd69652f24229b1f19b4b9dcffcf5" },
+          "password": "LaValice**"
+        }
+      }
+  },
+  "scope": {
+      "project": {
+        "name": "vapor",
+        "domain": { "id": "ad6cd69652f24229b1f19b4b9dcffcf5" }
+      }
+    }
+  }
+}

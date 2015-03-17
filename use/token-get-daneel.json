@@ -1,0 +1,16 @@
+{ "auth": {
+    "identity": {
+      "methods": ["password"],
+      "password": {
+        "user": {
+          "name": "daneel",
+          "domain": { "id": "ad6cd69652f24229b1f19b4b9dcffcf5" },
+          "password": "LaVdaneel**"
+        }
+      }
+  },
+  "scope": {
+        "domain": { "id": "ad6cd69652f24229b1f19b4b9dcffcf5" }
+    }
+  }
+}

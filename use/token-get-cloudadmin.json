@@ -1,0 +1,19 @@
+{ "auth": {
+    "identity": {
+      "methods": ["password"],
+      "password": {
+        "user": {
+          "name": "cloudadmin",
+          "domain": { "id": "default" },
+          "password": "LaVcloudadmin**"
+        }
+      }
+  },
+  "scope": {
+      "project": {
+        "name": "cloudadmin",
+        "domain": { "id": "default" }
+      }
+    }
+  }
+}
