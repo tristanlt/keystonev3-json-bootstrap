@@ -1,0 +1,5 @@
+export OS_IDENTITY_API_VERSION=3
+export OS_USERNAME=daneel
+export OS_PASSWORD=LaVdaneel**
+export OS_TENANT_NAME=vapor
+export OS_AUTH_URL=http://5lpo100.univ-brest.fr:5000/v3

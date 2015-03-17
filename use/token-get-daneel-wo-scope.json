@@ -8,12 +8,6 @@
           "password": "LaVdaneel**"
         }
       }
-  },
-  "scope": {
-      "project": {
-        "name": "vapor",
-        "domain": { "id": "default" }
-      }
-    }
   }
+}
 }

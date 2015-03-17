@@ -1,0 +1,13 @@
+{ "auth": {
+    "identity": {
+      "methods": ["password"],
+      "password": {
+        "user": {
+          "name": "cloudadmin",
+          "domain": { "id": "default" },
+          "password": "LaVcloudadmin**"
+        }
+      }
+  }
+  }
+}
