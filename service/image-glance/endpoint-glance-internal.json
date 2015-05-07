@@ -1,0 +1,9 @@
+{
+	"endpoint": {
+		"service_id": "2702ee6a726f46688c004b644569bce2",
+		"interface": "internal",
+		"url": "http://5lpo100.univ-brest.fr:9292",
+		"region": "FR-UTAV-II-DC1R1",
+		"name": "image-internal-n1"
+	}
+}

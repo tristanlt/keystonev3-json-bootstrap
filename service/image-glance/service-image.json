@@ -1,0 +1,7 @@
+{
+	"service": {
+		"name": "glance",
+		"type": "image",
+		"description": "Image Service (Glance)"
+	}
+}

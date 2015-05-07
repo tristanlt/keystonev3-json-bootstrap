@@ -1,0 +1,14 @@
+{
+    "network": {
+        "bridge": "br100", 
+        "bridge_interface": "em1", 
+        "broadcast": "172.16.9.255", 
+        "cidr": "172.16.9.0/24", 
+        "dns1": "8.8.4.4", 
+        "dns2": null, 
+        "enable_dhcp": true, 
+        "gateway": "172.16.9.18", 
+        "label": "fakelpo", 
+        "multi_host": true 
+    }
+}

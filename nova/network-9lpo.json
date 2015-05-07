@@ -1,0 +1,15 @@
+{
+    "network": {
+        "bridge": "br100", 
+        "bridge_interface": "em1", 
+        "broadcast": "172.16.9.255", 
+        "cidr": "172.16.9.0/24", 
+        "dns1": "195.83.247.29", 
+        "dns2": "195.83.247.21", 
+        "enable_dhcp": true, 
+	"dhcp_server": "172.16.9.2",
+        "gateway": "172.16.9.18", 
+        "label": "9lpo", 
+        "multi_host": true 
+    }
+}

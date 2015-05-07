@@ -1,0 +1,7 @@
+{
+	"project": {
+		"name": "service",
+		"description": "Services infra virtualisée",
+                "domain_id": "default"
+	}
+}
